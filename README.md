@@ -16,6 +16,6 @@ Dollar cost averaging and lump-sum investing can both help you invest your money
 
 ---
 
-In this Data Analysis I am going to test the perfomance of the DCA strategy against Lump Sum investing for some of the principal cryptos using Jupyter notebook.
+In this Data Analysis, I am going to test the performance of the DCA strategy against Lump Sum investing for some of the top cryptos using Jupyter notebook.
 
 **Data source:** Yahoo finance
