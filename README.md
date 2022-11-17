@@ -1,4 +1,4 @@
-# DCA_Cripto_Analysis
+# DCA_Crypto_Analysis
 
 [DCA](https://m.foolcdn.com/media/dubs/images/original_imageshttpsg.foolcdn.comeditorialimag.width-880_kPplVtQ.png)
 
